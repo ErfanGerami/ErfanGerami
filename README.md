@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErfanGerami
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c++
 - 📫 How to reach me: e.geramizadeh13821359@gmail.com
 
 <!---
